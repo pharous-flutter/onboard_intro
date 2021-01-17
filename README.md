@@ -3,8 +3,8 @@
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/xsahil03x) 
 
 A OnBoarding Intro Screen Library for Easy and Quick Usage.
-* Checkout the Original Author : [![GitHub followers](https://img.shields.io/github/stars/matthew-carroll/flutter_ui_challenge_material_page_reveal.svg?style=social&label=Follow)](https://github.com/matthew-carroll/flutter_ui_challenge_material_page_reveal)
-* Checkout the Original Designer : [![GitHub followers](https://img.shields.io/github/stars/Ramotion/paper-onboarding-android.svg?style=social&label=Follow)](https://github.com/Ramotion/paper-onboarding-android)
+* Checkout the Original Author : [![GitHub followers])](https://github.com/ahmedelsayed96)
+
 
 The source code is **100% Dart**, and everything resides in the [/lib](https://github.com/pharous-flutter/onboard_intro/tree/master/lib) folder.
 
