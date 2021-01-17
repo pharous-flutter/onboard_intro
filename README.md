@@ -18,7 +18,7 @@ The source code is **100% Dart**, and everything resides in the [/lib](https://g
 
 
 ### GIF
-<img src="https://github.com/pharous-flutter/onboard_intro/blob/master/assets/onBoarding%20intro.gif" height="400" alt="GIF"/>
+<img src="https://github.com/pharous-flutter/onboard_intro/raw/master/assets/onBoarding%20intro.gif" height="400" alt="GIF"/>
 
 ## 💻 Installation
 In the `dependencies:` section of your `pubspec.yaml`, add the following line:
